@@ -1,0 +1,19 @@
+.container {
+  max-width: 720px;
+  margin: 40px auto;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  line-height: 1.45;
+}
+
+h1 {
+  margin-bottom: 12px;
+}
+
+.btn-row {
+  margin: 10px 0 18px;
+}
+
+.hint {
+  margin-top: 12px;
+  color: #444;
+}
